@@ -1,4 +1,4 @@
-# 📊 Task 3: Sales & Customer Behaviour Data Visualization (Power BI)
+# 📊 Task: Sales & Customer Behaviour Data Visualization (Power BI)
 
 ## 📌 Project Overview
 This project focuses on transforming raw sales, customer, and product data into an interactive **Power BI dashboard** to analyze business performance and customer behaviour.
