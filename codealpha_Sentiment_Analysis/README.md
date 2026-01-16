@@ -1,5 +1,5 @@
 # 🧠 Sentiment Analysis on Amazon Product Reviews  
-## Task 4: Sentiment Analysis
+## Task: Sentiment Analysis
 
 ---
 
