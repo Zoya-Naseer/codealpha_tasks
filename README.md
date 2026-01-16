@@ -1,7 +1,7 @@
-# 📊 CodeAlpha Data Analytics Internship Projects
+# 📊 Data Analytics Projects
 
-## 👩‍💻 Intern: Zoya Naseer  
-**Role:** Data Analytics Intern  
+## 👩‍💻Prepared By: Zoya Naseer  
+**Role:** Data Analytics   
 **Domain:** Data Analytics & Business Intelligence  
 
 ---
@@ -80,4 +80,4 @@ Aspiring Data Analyst | Business Analytics | Data Visualization
 📍 Open to Internship & Entry-Level Opportunities
  
 
-📌 *This repository was created as part of the CodeAlpha Data Analytics Internship.*
+
